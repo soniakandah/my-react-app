@@ -1,0 +1,1 @@
+{"version":3,"sources":["_colors.scss"],"names":[],"mappings":"AAEA,KACI,qBAHc,CAId,sBAAuB","file":"main.d465c43f.chunk.css","sourcesContent":["$theme-color: blue;\n\nbody {\n    background-color: $theme-color;\n    font-family: sans-serif;\n}\n"]}
